@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slymnozdmrc
-- 👀 I’m interested in JS, C#, Java.
+- 👀 I’m interested in JS,Python, C#, Java.
 - 🌱 I’m currently learning NLP.
 - 📫 How to reach me sozdemircim@gmail.com
 
